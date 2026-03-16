@@ -2,7 +2,7 @@
   <br>
   <img src="https://img.icons8.com/color/144/ganesha.png" alt="Jyoti AI" width="100">
   <br>
-  Jyoti AI — Cosmic Vedic Astrologer ✨
+  Jyoti AI — Cosmic Vedic Astrologer 
   <br>
 </h1>
 
