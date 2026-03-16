@@ -74,5 +74,3 @@ Jyoti AI is designed around a **Viral Points Loop** to drive organic growth:
    flutter run
    ```
 
----
-<p align="center"><i>Made with 🪷 in India</i></p>
